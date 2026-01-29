@@ -1,0 +1,7 @@
+{
+  "name": "Don't Sign Yet (잠깐! 서명 전에)",
+  "description": "AI-powered contract analysis tool that identifies toxic clauses and summarizes documents using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
